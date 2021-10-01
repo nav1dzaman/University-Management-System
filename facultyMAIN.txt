@@ -1,0 +1,48 @@
+Faculty Id   :MDH
+Faculty Name    :Mahmudul Hasan
+Faculty Phone   :123455
+Faculty  Salary  :560000
+Faculty Mail    :mdh@gmail.com
+AnnualIncome : 6720000
+Faculty Id   :DAWR
+Faculty Name    :Wasif Reza
+Faculty Phone   :123456
+Faculty  Salary  :70000
+Faculty Mail    :dawr@gmail.com
+AnnualIncome : 840000
+Faculty Id   :AAL
+Faculty Name    :Akbar Ali
+Faculty Phone   :0134523443
+Faculty  Salary  :450000
+Faculty Mail    :akbar@gmail.com
+AnnualIncome : 5400000
+Faculty Id   :JKL
+Faculty Name    :J ALi
+Faculty Phone   :0123423234
+Faculty  Salary  :560000
+Faculty Mail    :jalli@gmai.com
+AnnualIncome : 6720000
+Faculty Id   :NVD
+Faculty Name    :NAVID
+Faculty Phone   :345543
+Faculty  Salary  :45
+Faculty Mail    :sdfsfhsh
+AnnualIncome : 540
+Faculty Id   :ABCD
+Faculty Name    :ABccd
+Faculty Phone   :0191387
+Faculty  Salary  :450000
+Faculty Mail    :ab@gmail.com
+AnnualIncome : 5400000
+Faculty Id   :XYZ
+Faculty Name    :xyz
+Faculty Phone   :013889479
+Faculty  Salary  :560000
+Faculty Mail    :xyz@gmail.com
+AnnualIncome : 6720000
+Faculty Id   :JKL
+Faculty Name    :jkl
+Faculty Phone   :02834727413
+Faculty  Salary  :234000
+Faculty Mail    :jkl@gmail,com
+AnnualIncome : 2808000

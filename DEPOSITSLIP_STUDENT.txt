@@ -1,0 +1,18 @@
+Payment/Deposit Slip
+Student Details........
+
+Student Id   :2020
+Student Name    :navid
+Student Gender   :Male
+Student mail    :a
+Student Phone    :3245
+Stident CGPA  :4
+Student Credit    :4
+Course Details........
+CSE 307.....(Estimated cost max. 25000 taka)
+MAT 205.....(Estimated cost max. 25000 taka)
+CSE 103.....(Estimated cost max. 25000 taka)
+Enter Amount (Manually) :
+Adccepted Bank: 
+Bangladesh bank(AC NO:12456)
+DBBL Bankbank(AC NO:12456)

@@ -1,0 +1,72 @@
+Code of Coure : CSE 110
+Name of course : Object Oriented Coding
+Department :Computer Science And Engineering
+Course Credit: 4.5
+Course Cost : 24750.0
+Total Semester Cost :111375.0
+Code of Coure : CSE 106
+Name of course : C Programming
+Department :Computer Science And Engineering
+Course Credit: 4.5
+Course Cost : 24750.0
+Total Semester Cost :111375.0
+Code of Coure : CSE 103
+Name of course : Descrete math
+Department :Computer Science and Engineering
+Course Credit: 3.0
+Course Cost : 5500.0
+Total Semester Cost :16500.0
+Code of Coure : CSE 206
+Name of course : Algortihm
+Department :Computer Science and Engineering
+Course Credit: 4.0
+Course Cost : 5500.0
+Total Semester Cost :22000.0
+Code of Coure : CSE 307
+Name of course : Data Structure
+Department :Computer Science and Engineering
+Course Credit: 4.0
+Course Cost : 5500.0
+Total Semester Cost :22000.0
+Code of Coure : MAT 104
+Name of course : Vector and Application
+Department :Computer Science and Engineering
+Course Credit: 3.0
+Credit Cost : 5500.0
+Total Semester Cost :16500.0
+Code of Coure : MAT 205
+Name of course : Differential Calculas
+Department :Computer Science and Engineering
+Course Credit: 3.0
+Credit Cost : 5600.0
+Total Semester Cost :16800.0
+Code of Coure : CHE 109
+Name of course : Basic Chemistry
+Department :Department of Environmental Science
+Course Credit: 3.0
+Credit Cost : 5500.0
+Total Semester Cost :16500.0
+Code of Coure : STA 102
+Name of course : Basic Statistics
+Department :Department of Science
+Course Credit: 3.0
+Credit Cost : 5700.0
+Total Semester Cost :17100.0
+Code of Coure : PHY 109
+Name of course : Basic Physics
+Department :Department of Science
+Course Credit: 3.0
+Credit Cost : 5500.0
+Total Semester Cost :16500.0
+Code of Coure : GEN 226
+Name of course : General Knowledge
+Department :Department of Arts
+Course Credit: 3.0
+Credit Cost : 5500.0
+Total Semester Cost :16500.0
+Code of Coure : CSE 200
+Name of course : Basic Circuit
+Department :CSE
+Course Credit: 4.0
+Credit Cost : 5500.0
+Total Semester Cost :22000.0

@@ -1,0 +1,228 @@
+
+Student Id   :2020-2-60-044
+Student Name    :Navid Zaman
+Student Gender   :Male
+Student mail    :naviid@gmail.com
+Student Phone    :01913809638
+Stident CGPA  :3.60
+Student Credit    :45
+Course Taken:
+CSE 206
+CHE 109
+CSE 106
+
+Student Id   :2020-2-60-999
+Student Name    :Jack
+Student Gender   :Male
+Student mail    :jack@gmail.com
+Student Phone    :0178967080
+Stident CGPA  :3.39
+Student Credit    :45
+Course Taken:
+CSE 206
+CSE 206
+CSE 106
+
+Student Id   :2020-2-60-111
+Student Name    :Henry Matt
+Student Gender   :Male
+Student mail    :henry@gmail.com
+Student Phone    :0194748645
+Stident CGPA  :3.23
+Student Credit    :67
+Course Taken:
+MAT 104
+CSE 106
+MAT 205
+
+Student Id   :2020-2-60-222
+Student Name    :Shakib Al Hasan
+Student Gender   :Male
+Student mail    :shakib@gmail.com
+Student Phone    :0176585995
+Stident CGPA  :3.89
+Student Credit    :34
+Course Taken:
+MAT 104
+CSE 106
+MAT 205
+
+Student Id   :2020-2-60-888
+Student Name    :Salman Khan
+Student Gender   :Male
+Student mail    :salma@gmail.com
+Student Phone    :0194684584
+Stident CGPA  :2.90
+Student Credit    :78
+Course Taken:
+MAT 104
+CSE 106
+MAT 205
+
+Student Id   :2020-2-60-467
+Student Name    :Shahrukh Khan
+Student Gender   :Male
+Student mail    :salman@gmail.com
+Student Phone    :019478578454
+Stident CGPA  :3.56
+Student Credit    :98
+Course Taken:
+MAT 104
+CSE 106
+MAT 205
+
+Student Id   :2020-2-60-235
+Student Name    :Salman
+Student Gender   :Male
+Student mail    :slman@gmail.com
+Student Phone    :0193458475
+Stident CGPA  :3.78
+Student Credit    :23
+Course Taken:
+MAT 104
+CSE 106
+MAT 205
+
+Student Id   :2021-2-60-045
+Student Name    :Md Tahsin
+Student Gender   :Male
+Student mail    :thsin@gmail.com
+Student Phone    :0193474775
+Stident CGPA  :3.33
+Student Credit    :78
+Course Taken:
+MAT 104
+CSE 106
+MAT 205
+
+Student Id   :2019-2-60-543
+Student Name    :Al suny
+Student Gender   :Male
+Student mail    :alsuny@gmail.com
+Student Phone    :0191343545
+Stident CGPA  :3.67
+Student Credit    :34
+Course Taken:
+CSE 307
+CSE 307
+CSE 307
+
+Student Id   :2021-1-60-041
+Student Name    :Ms shyamoli
+Student Gender   :Male
+Student mail    :ms@gmail.com
+Student Phone    :01845689456
+Stident CGPA  :4
+Student Credit    :23
+Course Taken:
+MAT 205
+MAT 205
+MAT 205
+
+Student Id   :2020-2-60-213
+Student Name    :Mushfiquir
+Student Gender   :Male
+Student mail    :mus@gmail.com
+Student Phone    :0143626543
+Stident CGPA  :2.89
+Student Credit    :57
+Course Taken:
+CSE 106
+CSE 106
+CSE 106
+
+Student Id   :2020-2-60-355
+Student Name    :Al labib
+Student Gender   :Male
+Student mail    :labib@gmail.com
+Student Phone    :0134564356
+Stident CGPA  :2.90
+Student Credit    :78
+Course Taken:
+MAT 104
+CSE 106
+MAT 205
+
+Student Id   :2020-2-60-464
+Student Name    :syed khan
+Student Gender   :Male
+Student mail    :syedkhan@gmail.com
+Student Phone    :01578567856
+Stident CGPA  :2.56
+Student Credit    :56
+Course Taken:
+CSE 206
+CHE 109
+CSE 103
+
+Student Id   :2020-2-60-012@gmail.com
+Student Name    :Neatbeans Rahman
+Student Gender   :Male
+Student mail    :nbeans@gmail.com
+Student Phone    :013456345
+Stident CGPA  :3.98
+Student Credit    :43
+Course Taken:
+CSE 206
+CHE 109
+CSE 103
+
+Student Id   :2021-2-60-234
+Student Name    :Shonchoyitah dey
+Student Gender   :Male
+Student mail    :dey@gmail.com
+Student Phone    :01925634
+Stident CGPA  :4
+Student Credit    :45
+Course Taken:
+CSE 206
+CHE 109
+CSE 103
+
+Student Id   :2020-3-50-044
+Student Name    :Del karnegi
+Student Gender   :Male
+Student mail    :del@gmail.com
+Student Phone    :019354345
+Stident CGPA  :3.90
+Student Credit    :34
+Course Taken:
+CSE 206
+CHE 109
+CSE 103
+
+Student Id   :2020-4-72-290
+Student Name    :Navid Zaman
+Student Gender   :Male
+Student mail    :nvd@gmail.com
+Student Phone    :01833743675
+Stident CGPA  :3.67
+Student Credit    :67
+Course Taken:
+CSE 206
+CHE 109
+CSE 103
+
+Student Id   :2020-3-56-011
+Student Name    :hasan
+Student Gender   :Male
+Student mail    :hsan@gmail.com
+Student Phone    :09234535634
+Stident CGPA  :2.67
+Student Credit    :67
+Course Taken:
+CSE 206
+CHE 109
+CSE 103
+
+Student Id   :as
+Student Name    :as
+Student Gender   :Male
+Student mail    :as
+Student Phone    :123
+Stident CGPA  :4.6
+Student Credit    :45
+Course Taken:
+MAT 104
+CSE 206
+CSE 307
